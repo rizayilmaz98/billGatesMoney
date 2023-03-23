@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(237, 229, 229);
+}
+.photo{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.productList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.carPhoto{
+  height: 250px;
+}
+.resultPhoto{
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
